@@ -1,0 +1,19 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f2f2f2;
+}
+
+h1{
+color:white;
+background:purple;
+padding:20px;
+}
+
+a{
+background:purple;
+color:white;
+padding:10px;
+text-decoration:none;
+border-radius:5px;
+}
